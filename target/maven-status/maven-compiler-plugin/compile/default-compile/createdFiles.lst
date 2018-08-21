@@ -1,0 +1,6 @@
+com\wsx\repository\UserRepositoty.class
+com\wsx\controller\UserController.class
+com\wsx\configuration\Entry.class
+com\wsx\configuration\JpaConfiguration.class
+com\wsx\entity\User.class
+com\wsx\service\UserService.class
